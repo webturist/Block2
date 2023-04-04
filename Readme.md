@@ -32,7 +32,7 @@
     
        Запустити команду `git add .`, щоб додати зміни до індексу.
     
-       Запустити команду `git commit -m` "Add new file and update README.md" для збереження змін.
+       Запустити команду `git commit -m "Add new file and update README.md"` для збереження змін.
     
        Запустити команду `git checkout develop`, щоб перейти на гілку develop.
     
@@ -44,11 +44,11 @@
     
        Запустити команду `git pull origin master`, щоб отримати останні зміни з гілки master.
     
-       Запустити команду git merge --no-ff develop, щоб злити гілку develop з гілкою master.
+       Запустити команду `git merge --no-ff develop`, щоб злити гілку develop з гілкою master.
     
-       Запустити команду git tag -a v1.0.0 -m "Version 1.0.0", щоб позначити реліз.
+       Запустити команду `git tag -a v1.0.0 -m "Version 1.0.0"`, щоб позначити реліз.
     
-       Запустити команду git push origin master --tags, щоб відправити зміни на віддалений репозиторій.
+       Запустити команду `git push origin master --tags`, щоб відправити зміни на віддалений репозиторій.
 
 
 4. Додайте у звіт адресу репозиторію та кроки, які ви зробити для виконання пункту "3".
